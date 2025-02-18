@@ -1,2 +1,2 @@
-# Dart3.x-Basic
-Used for studying
+# Dart3.x
+Used for studying basic
